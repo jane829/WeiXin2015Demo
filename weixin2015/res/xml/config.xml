@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <!-- 真机连你的电脑估计连不上，连124.207.192.18/172.60.5.100 -->
+    <host>192.168.254.1</host>
+    <port>5222</port>
+    <serviceName>tarena3gxmpp.com</serviceName>
+    </config>
